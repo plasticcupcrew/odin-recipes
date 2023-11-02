@@ -1,0 +1,36 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: rgb(177, 177, 239);
+    color: black;
+    padding: 20px;
+    width: 740px;
+    margin: 0 auto;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+}
+
+ul.homepage {
+    font-size: 22px;
+    color: black;
+    width: 720px;
+    margin: 0 auto;
+    border-width: 10px;
+    border-color: black;
+    border-style: dotted;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ol {
+    font-weight: 600;
+}
+
+h3 {
+    text-decoration: underline;
+}
